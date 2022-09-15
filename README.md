@@ -79,3 +79,10 @@ Tic-Tac-Toe Game :- HTML, CSS3 Animation only.
 
 https://shubham-satnurkar.github.io/Tic_Tac_Toe_Game/
 
+HW_School :-project design using html, css, gulp sass and javascript and jquery.
+
+https://shubham-satnurkar.github.io/HW_School/dist/
+
+Infosys Equinox :- project design with html, css, gulp sass, scss and javascript, jquery.
+
+https://shubham-satnurkar.github.io/Infosys-Equinox-Gulp-Sass/app
